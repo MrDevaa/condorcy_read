@@ -39,17 +39,29 @@ Avec l'essor du vote numérique, ce projet vise à développer une application P
 #### Principaux cas d'utilisation
 
 1️⃣ **Accéder à la page d'accueil** : Présente la plateforme et liste les 10 derniers scrutins créés et actifs.
+
 2️⃣ **S'inscrire** : Permet à un visiteur de devenir utilisateur en remplissant un formulaire d'inscription.
+
 3️⃣ **Modifier le profil** : Mise à jour des données personnelles, sauf le pseudonyme.
+
 4️⃣ **Supprimer le profil** : Désactivation d'un profil tout en conservant son pseudonyme pour l'historique.
+
 5️⃣ **Créer un scrutin** : Les utilisateurs peuvent organiser des scrutins avec un minimum de deux options.
+
 6️⃣ **Modifier un scrutin** : Possible tant qu'il n'a pas été rendu public.
+
 7️⃣ **Participer à un scrutin** : Classement des options par ordre de préférence.
+
 8️⃣ **Modifier un vote** : Révision possible tant que le scrutin est ouvert.
+
 9️⃣ **Afficher les résultats** : Les résultats sont disponibles après clôture.
+
 🔟 **Dépouiller un scrutin** : Calcul des résultats pour un scrutin organisé par un utilisateur.
+
 🔢 **Modérer un scrutin** : Les administrateurs peuvent désactiver des scrutins non conformes.
+
 📊. **Afficher des statistiques** : Permet d'analyser la participation et d'obtenir des données détaillées.
+
 
 ### 🔍 Analyse des votes
 
