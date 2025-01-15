@@ -80,18 +80,7 @@ Avec l'essor du vote numérique, ce projet vise à développer une application P
    - Gestion des équivalences et des abstentions.
    - Algorithme complexe basé sur des cycles et un graphe orienté.
 
-## 📦 Livrables
-
-1️⃣ **Code source** : Archive ZIP contenant tous les fichiers nécessaires à l'application.
-2️⃣ **Documentation** : DocStrings Python pour générer une documentation technique.
-3️⃣ **Tests (optionnel)** : Couverture des fonctionnalités principales.
-
 ## 📚 Ressources
-
-### 🗳️ Systèmes électoraux
-- [Systèmes électoraux (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9lectoral)
-- [Méthode de Condorcet (Wikipedia)](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_Condorcet)
-- [Observatoire de la Civic Tech](https://civictechobservatory.org/)
 
 ### 🐍 Python
 - [Flask - Documentation officielle](https://flask.palletsprojects.com/)
@@ -108,7 +97,7 @@ Avec l'essor du vote numérique, ce projet vise à développer une application P
 |-----------------------------------------------------------------|------------------------|
 | [The-Leyn](https://github.com/The-Leyn)                         | Développeur Full Stack |
 | [Woodiss](https://github.com/Woodiss)                           | Développeur Full Stack |
-| [MrDevaa](https://github.com/MrDevaa)                           | Développeur Back End   |
+| [MrDevaa](https://github.com/MrDevaa)                           | Développeur Full Stack |
 | [christopherDEPASQUAL](https://github.com/christopherDEPASQUAL) | Développeur Full Stack |
 | [Amaury057](https://github.com/Amaury057)                       | Développeur Full Stack |
 
@@ -116,7 +105,3 @@ Avec l'essor du vote numérique, ce projet vise à développer une application P
 
 - Un grand merci à Michel CADENNES, notre professeur BACK de Python/MongoDB, pour son accompagnement, ses conseils précieux tout au long de ce projet. Grâce à son expertise, nous avons pu approfondir nos compétences techniques et mener à bien ce travail.
 Nous remercions également l'école HETIC pour nous avoir offert cette opportunité d'apprentissage et les moyens nécessaires pour réaliser ce projet ambitieux.
-
-## Licence 📜
-
-Ce projet est protégé par des droits. Il ne peut pas être utilisé, modifié ou distribué à des fins lucratives sans autorisation préalable.
