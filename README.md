@@ -1,4 +1,4 @@
-# Application de Gestion de Scrutins
+# 🌟 Application de Gestion de Scrutins
 
 ## Contexte
 
