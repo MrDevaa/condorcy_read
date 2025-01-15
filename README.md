@@ -89,3 +89,22 @@ Avec l'essor du vote numérique, ce projet vise à développer une application P
 
 ### 🗄️ MongoDB
 - [MongoDB - Documentation officielle](https://www.mongodb.com/docs/)
+
+### Auteurs 👨‍💻
+
+| Profil Github                                                   | Poste                  |
+|-----------------------------------------------------------------|------------------------|
+| [The-Leyn](https://github.com/The-Leyn)                         | Développeur Full Stack |
+| [Woodiss](https://github.com/Woodiss)                           | Développeur Full Stack |
+| [MrDevaa](https://github.com/MrDevaa)                           | Développeur Back End   |
+| [christopherDEPASQUAL](https://github.com/christopherDEPASQUAL) | Développeur Full Stack |
+| [Amaury057](https://github.com/Amaury057)                       | Développeur Full Stack |
+
+## Remerciements 💬
+
+- Un grand merci à Michel CADENNES, notre professeur BACK de Python/MongoDB, pour son accompagnement, ses conseils précieux tout au long de ce projet. Grâce à son expertise, nous avons pu approfondir nos compétences techniques et mener à bien ce travail.
+Nous remercions également l'école HETIC pour nous avoir offert cette opportunité d'apprentissage et les moyens nécessaires pour réaliser ce projet ambitieux.
+
+## Licence 📜
+
+Ce projet est protégé par des droits. Il ne peut pas être utilisé, modifié ou distribué à des fins lucratives sans autorisation préalable.
